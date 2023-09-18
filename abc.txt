@@ -1,5 +1,5 @@
 小明 先提交了 bbb
-
+bug1修复
 123123
 
 --no-ff 修复bug2   bug1
